@@ -8,3 +8,5 @@
 
 // console.log(firstName); // error
 console.log(lastName); // no error
+
+const age = 10;
