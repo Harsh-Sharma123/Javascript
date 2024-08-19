@@ -10,3 +10,14 @@
 console.log(lastName); // no error
 
 const age = 10;
+
+function app(){
+    if(true){
+        // let firstName = "Harsh";
+        var firstName = "Harsh";
+        console.log(firstName);
+    }
+    console.log(firstName); // error in case of let firstName, no error in case of var firstName
+}
+
+app();
