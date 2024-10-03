@@ -8,7 +8,7 @@ const squareNumbers = numbers.map(square);
 
 console.log(squareNumbers);
 
-const users = [
+const users  = [
     {firstName : 'A', age: 20},
     {firstName : 'B', age: 21},
     {firstName : 'C', age: 22},
