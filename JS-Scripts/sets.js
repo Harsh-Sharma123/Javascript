@@ -15,3 +15,11 @@ numbers.add(['item1', 'item2']);
 numbers.add(['item1', 'item2']);
 
 console.log(numbers);
+
+const nums = [1,2,2,3,4,4,5];
+
+console.log(nums.length)
+const newset = new Set(nums);
+
+console.log(newset);
+console.log(newset.size);
