@@ -8,4 +8,3 @@
 
 // Difference between Objects and Maps
 // Objects can only have strings or symbols as keys while maps can have anything as key liek array, number, string
-
